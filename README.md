@@ -28,9 +28,9 @@ Secuencia escape
 
 - https://respuestasrapidas.com.mx/como-usar-secuencias-de-escape-en-java/
 
-## Enlaces de los Curso tomados
+## Enlaces de los curso tomados
 
- Temporada 1: https://
+ **Temporada 1:** https://www.youtube.com/playlist?list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K
 
 ## IDE o editor de código utilizado
 
