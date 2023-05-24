@@ -28,6 +28,14 @@ Secuencia escape
 
 - https://respuestasrapidas.com.mx/como-usar-secuencias-de-escape-en-java/
 
+Matemáticas
+
+- https://www.discoduroderoer.es/metodos-de-la-clase-math-de-java/
+
+- https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+
+- https://codesitio.com/recursos-utiles-para-tu-web-o-blog/cursos/curso-de-java-como-usar-la-clase-math/
+
 ## Enlaces de los curso tomados
 
  **Temporada 1:** https://www.youtube.com/playlist?list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K
