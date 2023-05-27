@@ -16,25 +16,29 @@ Estas son practicas autodidactas de programacion realizadas en el lenguaje de pr
 
 ## Enlaces adicionales
 
-Palabras reservadas:
+##### Palabras reservadas:
 
 - https://www.abrirllave.com/java/palabras-clave.php
 
-Diferencia. entre print() y println()
+##### Diferencia. entre print() y println()
 
 - https://www.tutorialspoint.com/difference-between-print-and-println-in-java
 
-Secuencia escape
+##### Secuencia escape
 
 - https://respuestasrapidas.com.mx/como-usar-secuencias-de-escape-en-java/
 
-Matemáticas
+##### Matemáticas
 
 - https://www.discoduroderoer.es/metodos-de-la-clase-math-de-java/
 
 - https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
 
 - https://codesitio.com/recursos-utiles-para-tu-web-o-blog/cursos/curso-de-java-como-usar-la-clase-math/
+
+##### Alcance de variables
+
+- https://javadesdecero.es/basico/ambito-variables-scope/
 
 ## Enlaces de los curso tomados
 
