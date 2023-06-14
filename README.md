@@ -40,6 +40,10 @@ Estas son practicas autodidactas de programacion realizadas en el lenguaje de pr
 
 - https://javadesdecero.es/basico/ambito-variables-scope/
 
+##### Recursividad
+
+- https://www.arquitecturajava.com/java-recursividad-y-manejo-de-ficheros/
+
 ## Enlaces de los curso tomados
 
  **Temporada 1:** https://www.youtube.com/playlist?list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K
